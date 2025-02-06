@@ -13,9 +13,6 @@ export default function Home() {
           <Button variant="contained" color="primary" sx={{ m: 1 }} component={Link} href="/movies">
             View Movies
           </Button>
-          <Button variant="contained" color="secondary" sx={{ m: 1 }} component={Link} href="/actors">
-            View Actors
-          </Button>
         </Box>
       </Container>
   );
